@@ -1,8 +1,4 @@
-# T00ls sign
-使用 GitHub Actions 每天自动执行 T00ls 签到
-参(chao)考(xi)自 https://github.com/xirikm/hostloc-auto-get-points
 
-## 使用说明
 
 Fork 本仓库，然后点击你的仓库右上角的 Settings，找到 Secrets 这一项，添加两个秘密环境变量。
 
